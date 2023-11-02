@@ -78,3 +78,15 @@ h1{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.bgs{
+    background-color: var(--light-color);
+}
+.fcolor{
+    color: var(--primary);
+}
+.colorp{
+    color: #37517E;
+}
+.textcolor1{
+    color:var(--primary);
+}
