@@ -90,3 +90,216 @@ h1{
 .textcolor1{
     color:var(--primary);
 }
+.serve{
+    background: var(--light-color);
+}
+.service{
+    color:var(--primary);
+}
+.Lorem{
+    color:var(--primary);
+}
+.ico{
+    color:#53B7E6;
+}
+.car{
+    border-radius: 0%;
+}
+.call{
+    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(https://bootstrapmade.com/demo/templates/Arsha/assets/img/cta-bg.jpg) fixed center center;
+}
+.calla{
+    color:white;
+}
+.duis{
+    color:white;
+}
+/* .to{
+    border-radius:100%;
+    border-color: #ffff;
+    background-color:none;
+    color:white; */
+}
+.port{
+    color: var(--primary);
+}
+.tea{
+    background-color: var(--light-color);
+    font-family: sans-serif;
+}
+.list{
+    list-style:none ;
+}
+.pri{
+    background-color: white;
+}
+.free{
+    color: #37517E;
+}
+.imgc{
+    width:30%;
+}
+.team{
+    width:50px;
+}
+.product{
+    font-size:15px;
+}
+.aut{
+    font-size:12px;
+}
+.ibg{
+    background-color:#53B7E6 ;
+    width:200%;
+    height:200%;
+    border-radius:50%;
+}
+.tecard{
+    border-color:white;
+}
+.faculty{
+    font-family: sans-serif;
+    font-weight:900;
+    font-size: 32px;
+    color: #37517E;
+}
+.f49{
+    font-size:45px;
+    font-family: sans-serif;
+}
+.pper{
+    font-size:18px;
+    font-family: sans-serif;
+    color: #47B9EB;
+}
+.btn{
+    width:35%;
+    margin-left:20px;
+    height:40px;
+    
+}
+.cbor{
+    border-top-color: #47b2e4;
+    border-top: 4px solid #47b2e4 ;
+    border-radius: 5px;
+}
+.deco{
+    text-decoration: line-through;
+    color:#ccc ;
+    line-height:20px;
+}
+.icon{
+    color: green;
+    font-size:20px;
+    
+}
+.freq  {
+    background-color: var(--light-color);
+} 
+.freqn{
+    color: var(--primary);
+}
+.qmark{
+    color: #47B9EB;
+}
+.accor{
+    color: #37517E;
+    font-size: 17px;
+    font-weight:400px;
+    font-family:sans-serif;
+}
+.subject{
+    width:87%;
+    margin-left:5%;
+    border: 1px solid lightgrey;
+}
+.massage{
+    width:80%;
+}
+.email{
+    margin-left:29%;
+}
+.name{
+    margin-left:5%;
+}
+.emaile{
+    margin-left:6%;
+    width:40%;
+    border: 1px solid lightgrey;
+}
+.namen{
+    margin-left:5%;
+    width:40%;
+    border: 1px solid lightgrey;
+}
+.msgbtn{
+    margin-left:35%;
+    margin-top:3%;
+    padding:2%;
+}
+.address{
+    border-bottom-color: #47b2e4;   
+    border-bottom: 4px solid #47b2e4 ;
+    border-top-color: #47b2e4;   
+    border-top: 4px solid #47b2e4 ;
+    border-radius: 0%;
+}
+.cont{
+    color: #37517E;
+    font-weight: bold;
+}
+.lobg{
+    background-color:#E7F5FB ;
+    border-radius:50%;
+    padding:1.9%;
+}
+iframe{
+    margin-left:5%;
+}
+.newsl{
+    background-color: var(--light-color);
+}
+.footer-newsletter form {
+    margin-top: 30px;
+    background: #fff;
+    padding: 6px 10px;
+    position: relative;
+    border-radius: 50px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.06);
+    text-align: left;
+  }
+  
+  .footer-newsletter form input[type=email] {
+    border: 0;
+    padding: 4px 8px;
+    width: calc(100% - 100px);
+  }
+  
+  .footer-newsletter form input[type=submit] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border: 0;
+    background: none;
+    font-size: 16px;
+    padding: 0 20px;
+    background: #47b2e4;
+    color: #fff;
+    transition: 0.3s;
+    border-radius: 50px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  }
+  .footer-newsletter form input[type=submit]:hover {
+    background: #209dd8;
+  }
+  .list{
+    list-style: none;
+  }
+  .term{
+    background-color: #37517E;
+    padding:2%;
+  }
+  .design{
+    margin-left:50%;
+  }
